@@ -93,6 +93,7 @@ HTML страницы:
 - `querySelectorAll`
 - `addEventListener`
 - `classList`
+- `closest`
 
 ---
 
